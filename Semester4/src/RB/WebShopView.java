@@ -32,9 +32,6 @@ import javafx.stage.Stage;
  *          Verwendete Quellen: Quelle (Begriff: )
  */
 
-/**
- * 
- */
 public class WebShopView extends Application {
 
 	public static WebShop webshop = new WebShop();
@@ -43,7 +40,6 @@ public class WebShopView extends Application {
 
 	public static void main(String[] args) {
 		
-
 		/* Registrierung von Observer "model" bei Observable "webshop" */
 		webshop.addObserver(model);
 
