@@ -32,6 +32,7 @@ import javafx.stage.Stage;
  *          Verwendete Quellen: Quelle (Begriff: )
  */
 
+
 public class WebShopView extends Application {
 
 	public static WebShop webshop = new WebShop();
