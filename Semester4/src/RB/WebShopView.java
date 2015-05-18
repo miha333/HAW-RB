@@ -26,7 +26,7 @@ import javafx.stage.Stage;
  * 
  * @version <br>
  * 
- *          Praktikum Programmieren 2, SS2014/WI <br>
+ *          Praktikum RB, SS2015/WI <br>
  *          Praktikumsgruppe 1 <br>
  *          Aufgabenblatt , "" <br>
  *          Verwendete Quellen: Quelle (Begriff: )
